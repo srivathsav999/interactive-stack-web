@@ -2,6 +2,8 @@
 
 A modern, animated card stack component built with React, TypeScript, and Framer Motion. Features smooth animations, linear progression, and responsive design.
 
+
+
 ## Features
 
 - **Sequential Navigation**: Navigate through cards like a normal webpage - from first to last
