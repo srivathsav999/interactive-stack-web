@@ -290,7 +290,7 @@ export const defaultPages: PageData[] = [
     backgroundColor: "bg-[#FFEEDD]",
     textColor: "text-[#22223b]",
     content: (
-      <div className="p-8 h-full flex flex-col justify-center">
+      <div className="p-7 h-full flex flex-col justify-center">
         <h1 className="text-4xl font-bold mb-6 text-[#22223b]">About Us</h1>
         <p className="text-lg mb-4 text-[#22223b]">Learn more about our mission and values.</p>
         <div className="space-y-2 text-sm opacity-90 text-[#22223b]">
